@@ -1,0 +1,25 @@
+.hero-carousel img{
+height: 90vh;
+object-fit: cover;
+object-position: top;
+}
+.hero-carousel .carousel-caption{
+top: 60%;
+text-align: left;
+color:blue;
+font-size: 40px;
+font-weight:bolder;
+}
+.hero-carousel .carousel-caption h5{
+    font-size: 60px;
+    color:red;
+    font-weight: bolder;
+    font-weight: bolder;
+    text-decoration:underline ;
+     }
+
+@media(max-width: 576){
+    .hero-carousel img{
+
+    }
+}
